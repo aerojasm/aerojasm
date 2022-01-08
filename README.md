@@ -7,7 +7,7 @@ Music 🎹 Sports 🏋🏻 Writing ✍🏼
 
 From Lima, Peru 🇵🇪
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/andres99rojas/) or [Twitter](https://twitter.com/ae_rojasm)
+You can contact me on [LinkedIn](https://www.linkedin.com/in/aerojasm/) or [Twitter](https://twitter.com/ae_rojasm)
 
 <!---
 andres99rojas/andres99rojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
