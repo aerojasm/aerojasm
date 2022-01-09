@@ -1,4 +1,4 @@
-# 👋🏼 Hola!
+# 👋🏼 ¡Hola!
 
 Hi, my name is Andrés. I am a BSc in Economics, looking for a career as a Data Analyst 📊
 
