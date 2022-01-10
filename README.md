@@ -1,6 +1,6 @@
 # 👋🏼 ¡Hola!
 
-Hi, my name is Andrés. I am a BSc in Economics, looking for a career as a Data Analyst 📊
+Hi, my name is Andrés. I am a BSc in Economics, looking for a career in Data Analytics 📊
 
 What other interests do I have?   
 Music 🎹 Sports 🏋🏻 Writing ✍🏼
