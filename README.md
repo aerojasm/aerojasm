@@ -2,9 +2,6 @@
 
 Hi, my name is Andrés. I am a BSc in Economics, looking for a career in Data Analytics 📊
 
-What other interests do I have?   
-Music 🎹 Sports 🏋🏻 Writing ✍🏼
-
 From Lima, Peru 🇵🇪
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/aerojasm/) or [Twitter](https://twitter.com/ae_rojasm)
