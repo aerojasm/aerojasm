@@ -1,6 +1,6 @@
 # 👋🏼 ¡Hola!
 
-Hi, my name is Andrés. I am a BSc in Economics, looking for a career in Data Analytics 📊
+Hi, my name is Andrés. I am a Data Scientist with a deep passion for predictive modeling and data analytics 📊
 
 From Lima, Peru 🇵🇪
 
