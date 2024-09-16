@@ -10,7 +10,7 @@ You can find me on:
   
 [![My Image](icons/linkedin.png)](https://www.linkedin.com/in/aerojasm/)
 [![My Image](icons/kaggle.png)](https://www.kaggle.com/aerojasm)
-[![My Image](icons/datacamp.png)](https://www.kaggle.com/aerojasm)
+[![My Image](icons/datacamp.png)](https://www.datacamp.com/portfolio/aerojasm)
 
 <!---
 andres99rojas/andres99rojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
