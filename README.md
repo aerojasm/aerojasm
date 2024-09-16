@@ -6,7 +6,7 @@ I have a strong work experience in the insurance sector, with many personal ML p
 
 My coding curiosity has driven me to explore a couple different languages ! 💻
 
-You can contact me on:  
+You can find me on:  
   
 [![My Image](icons/linkedin.png)](https://www.linkedin.com/in/aerojasm/)
 [![My Image](icons/kaggle.png)](https://www.kaggle.com/aerojasm)
