@@ -7,7 +7,7 @@ I have a strong work experience in the insurance sector, with many personal ML p
 My coding curiosity has driven me to explore a couple different languages ! 💻
 
 You can contact me on: 
-Linkedin 
+Linkedin ![My Image](images/linkedin.png)
 
 <!---
 andres99rojas/andres99rojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
