@@ -4,7 +4,7 @@ Hi, my name is Andrés. I am a Data Scientist with a deep passion for predictive
 
 I have a strong work experience in the insurance sector, with many personal ML projects on the side 🧠
 
-My coding curiosity has driven me to explore a couple different languages ! 💻
+My coding curiosity has driven me to explore a couple different languages 💻
 
 You can find me on:  
   
