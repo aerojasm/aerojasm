@@ -7,10 +7,10 @@ I have a strong work experience in the insurance sector, with many personal ML p
 My coding curiosity has driven me to explore a couple different languages 💻
 
 You can find me on:  
-  
-[![My Image](icons/linkedin.png)](https://www.linkedin.com/in/aerojasm/)
-[![My Image](icons/kaggle.png)](https://www.kaggle.com/aerojasm)
-[![My Image](icons/datacamp.png)](https://www.datacamp.com/portfolio/aerojasm)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aerojasm/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aerojasm)
+[![DataCamp](https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/portfolio/aerojasm)
 
 <!---
 andres99rojas/andres99rojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
